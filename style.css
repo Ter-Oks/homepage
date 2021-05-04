@@ -1,0 +1,43 @@
+main {
+    background: url('./img/cat-butt.png') repeat;
+}
+
+.contacts li a.instagram:hover {
+    color: #f09433;
+}
+
+.main-block .contacts {
+    justify-content: center;
+}
+
+.main-block-wrapper,
+.experience {
+    display: inline-block;
+    background-color: #dadada;
+    padding: 10px;
+}
+
+.avatar {
+    width: 210px;
+    height: 210px;
+    background: url('./img/photoLev.jpg');
+    border-radius: 50%;
+}
+
+* {
+    color: rgb(46, 43, 43);
+}
+
+.my-love {
+    display: flex;
+    justify-content: center;
+    padding-top: 7em;
+}
+
+.my-love a {
+    color: grey;
+}
+
+.my-love a:hover {
+    color: rgb(56, 53, 53);
+}
